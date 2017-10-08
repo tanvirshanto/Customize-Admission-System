@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Customize_AdmissionDataSet" targetNamespace="http://tempuri.org/Customize_AdmissionDataSet.xsd" xmlns:mstns="http://tempuri.org/Customize_AdmissionDataSet.xsd" xmlns="http://tempuri.org/Customize_AdmissionDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Customize_AdmissionConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Customize_AdmissionConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Admission_System.Properties.Settings.GlobalReference.Default.Customize_AdmissionConnectionString" Provider="Microsoft.SqlServerCe.Client.4.0" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Customize_AdmissionDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Customize_AdmissionDataSet" msprop:Generator_UserDSName="Customize_AdmissionDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

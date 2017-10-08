@@ -1,0 +1,11 @@
+H:\ASP.NET\Admission System\Admission System\bin\Debug\Admission System.exe.config
+H:\ASP.NET\Admission System\Admission System\bin\Debug\Admission System.exe
+H:\ASP.NET\Admission System\Admission System\bin\Debug\Admission System.pdb
+H:\ASP.NET\Admission System\Admission System\obj\Debug\Admission_System.Form1.resources
+H:\ASP.NET\Admission System\Admission System\obj\Debug\Admission_System.Properties.Resources.resources
+H:\ASP.NET\Admission System\Admission System\obj\Debug\Admission System.csproj.GenerateResource.Cache
+H:\ASP.NET\Admission System\Admission System\obj\Debug\Admission System.exe
+H:\ASP.NET\Admission System\Admission System\obj\Debug\Admission System.pdb
+H:\ASP.NET\Admission System\Admission System\obj\Debug\Admission_System.Home.resources
+H:\ASP.NET\Admission System\Admission System\obj\Debug\Admission_System.Interface.studentInfoForm.resources
+H:\ASP.NET\Admission System\Admission System\obj\Debug\Admission System.csprojResolveAssemblyReference.cache
