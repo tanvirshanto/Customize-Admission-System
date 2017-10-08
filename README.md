@@ -1,0 +1,1 @@
+Customize Admission System:  A desktop application for customizing multiple stages in the admission process workflow to meet different needs. Set admission eligibility criteria and seats for different courses, grades and institution. Technologies used: C#, Windows forms, LINQ.
